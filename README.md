@@ -15,7 +15,7 @@ _class:
 
 # Randers slide template 
 ![w:32 h:32](https://www.randers.dk/static/logo.svg)
-![bg contain](https://www.randers.dk/media/42137/krokus_foraar_2023_forside-web.jpg)
+![bg](https://www.randers.dk/media/42137/krokus_foraar_2023_forside-web.jpg)
 
 Presentations to Webpages: Instantly!
 
