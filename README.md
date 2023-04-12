@@ -15,9 +15,11 @@ _class:
 
 # Randers slide template 
 ![w:32 h:32](https://www.randers.dk/static/logo.svg)
-![bg](https://www.randers.dk/media/42137/krokus_foraar_2023_forside-web.jpg)
 
 Presentations to Webpages: Instantly!
+
+Inspiration: 
+https://dev.to/chris_ayers/unleash-your-creativity-with-marp-presentation-customization-1cpn
 
 ## Slide 2
 
