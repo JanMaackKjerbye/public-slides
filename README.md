@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 <!--
 theme: uncover
 transition: dissolve
@@ -13,19 +17,17 @@ _class:
  - invert
 -->
 
-# Randers slide template 
-![w:32 h:32](https://www.randers.dk/static/logo.svg)
+## FAST FORWARD 
+![bg right:33% w:300](https://www.randers.dk/static/logo.svg)
 
 Presentations to Webpages: Instantly!
 
-Inspiration: 
-https://dev.to/chris_ayers/unleash-your-creativity-with-marp-presentation-customization-1cpn
+## KUBERNETES
 
-## Slide 2
+![bg](./img/k8s-pods.jpg)
 
-[Marp](https://marp.app/) lets you create HTML slides from markdown (like this!).
-
-This presentation is both a [website](https://alexsci.com/marp-to-pages) and a [README.md](https://github.com/ralexander-phi/marp-to-pages/blob/main/README.md).
+* Fragment
+* Fragment 2
 
 ## Why?
 
