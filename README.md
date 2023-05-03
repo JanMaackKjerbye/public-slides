@@ -1,16 +1,10 @@
 ---
 marp: true
+footer: ![w:250](https://www.randers.dk/static/logo.svg)
 ---
 
 <!--
 theme: uncover
-style: |
-  .fa-twitter { color: aqua; }
-  .fa-mastodon { color: purple; }
-  .fa-linkedin { color: blue; }
-  .fa-window-maximize { color: skyblue; }
-  @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
-
 
 transition: dissolve
 class:
@@ -19,61 +13,54 @@ headingDivider: 2
 paginate: true
 -->
 
-<!--
-_class:
- - lead
- - invert
--->
 
-## FAST FORWARD 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+# AUTOMATISK DATAHØST
+ OG DATAOMSÆTNING
+![bg blur:3px brightness:0.7](./img/datahighway-unsplash.jpg)
+effektivisering af dataarbejdet
 
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+# DATAFORDELEREN
+<style scoped>
+{
+  font-size: 27px
+}
+</style>
 
-![bg right:33% w:300](https://www.randers.dk/static/logo.svg)
-
-Presentations to Webpages: Instantly!
-
-#  KUBERNETES
-
-![bg](./img/k8s-pods.jpg)
-
-![](img/stack.drawio.svg)
-* <i class="fa-brands fa-github"></i> GitHub
-* 
-#tea<i class="fa fa-cubes"></i>
- Test
-* Fragment 2
+##### en hjælpende digital hånd til dataejeren
+![bg right:25% h:800 saturate:0.5](./img/robotarm-unsplash.jpg)
+- Håndterer automatisk datahøst fra mange kilder
+- Omdanner data til et brugbart format via regler
+- Selvkørende indlæsning i tabeller
+- Muliggører samarbejde om regler og datakilder 
 
 
 
-## Why?
-<!-- backgroundImage: "linear-gradient(to bottom, #67b8e3, #0288d1)" -->
-
-Treat your presentation the same way you treat code.
-
-- Use git to track changes
-- Pull requests to collaborate
-- Deploy automatically
-- See a problem? Open an issue!
 
 
+## HVORFOR
+<style scoped>
+{
+  font-size: 42px
+}
+</style>
+![bg blur:0px brightness:1](./img/manuel-unsplash.jpg)
+###### Sammenlignet med manuel dataindsamling
 
-# 🎉
-<!--
-_class:
- - lead
- - invert
--->
-### Hooray!
+- sparer tid
+- reducerer fejl
+- konsoliderer data
+- sikrer databeskyttelse
+
+## HVORDAN ?
+###### dataarbejde er teamwork
+![bg blur:0px brightness:0.4](./img/teamwork-unsplash.jpg)
+ - dataejer faciliterer og kommunikerer
+ - løsningsarkitekt assisterer og stiller tekniske krav
+ - udvikler integrerer oplysninger fra dataejer
+ - alle deltager i test og kvalitetssikring
+
+  
+
+# 🕰 🎉
 
 

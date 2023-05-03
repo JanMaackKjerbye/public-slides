@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="181px" height="171px" viewBox="-0.5 -0.5 181 171" content="&lt;mxfile&gt;&lt;diagram id=&quot;001p49L88gVgY-71pwYB&quot; name=&quot;Page-1&quot;&gt;zZVNb6MwEIZ/DXfADR/HhHa7h121Ug57NngCVg2DnKEk/fU1YAIsqZRqt1I5IPudGcy8D8YOS8rTo+Z18RsFKMd3xclh947vB1Fs7p1wHoSI3Q1CrqUYJG8S9vINrOhatZECjotEQlQk66WYYVVBRguNa43tMu2AarlqzXNYCfuMq7X6RwoqbBd+OOk/QebFuLIX2IZLPibbTo4FF9jOJPbgsEQj0jAqTwmozrvRl6HuxwfRy4tpqOiWgmgoeOWqsb3Z96Lz2GxBpTIjz2G7tpAE+5pnXag1aI1mOqi7qTxi0qRgOtilPHvJNTaVeGpIyQpsuUnZVnn/XG9j5gepVIIKdb8Qc92Iu26nY0Uz/dBf3VKk8QUWFZuwr1i3bZ14BU1wmknWhkfAEkifTYqNjkTO46dm5+0E2GNWK2ZwI6tx+03llydPtpuBdf46hfAbURAbiMTdNbcjP2VBYCK55kLCglEcCjcMv4TE5kYQF2L/QiL4RiQCl8de+Jn94N+HwZfth9soxP8BQryCsM3I9Pg3idHqplRDAtt1/Unzo/7FU1DPeJQksTIpKRJhOUvYKpl3AcIO2owpDoiSy9Ex+bky74rFH/rphUtDg7Wh1/wMPu+nmU4HSB+bncLs4R0=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="131px" height="171px" viewBox="-0.5 -0.5 131 171" content="&lt;mxfile&gt;&lt;diagram id=&quot;001p49L88gVgY-71pwYB&quot; name=&quot;Page-1&quot;&gt;zZXBjoIwEIafhnuhQvG4outeNnvwsOdKR2gslNQisE+/BYpAdBPNxkQOpPPNTNuZvwUHR1m9VbRIPyUD4XiI1Q5eO54XoIV5t6DpQYgtSBRnPXJHsOM/YCGytOQMTrNALaXQvJjDWOY5xHrGqFKymocdpJivWtAErsAupuKafnOmU1uFR0b+ATxJh5XdYNl7MjoE20pOKWWymiC8cXCkpNT9KKsjEG3vhr70ee9/eC8bU5DrexLCPuFMRWlrs/vSzVBsqjNhRq6DV1XKNewKGreuykhrmKmgaE1+klG5B1PBak/jY6JkmbOvUgueg003IW950s3r+sY+cCEiKaTqFsIIhRShlstcT/ihe9qltJJHmGX4pMu4Ltt24gxKQz1Btg1bkBlo1ZgQ6x0UaYajZu1qFNjFlqUTcUPLqD1TyWXmse1mYDt/WwXyQiowH0K2uNXt0NvjIDCeRFHGYabRkjBEyFOU8O8U4qLYf5QIXkiJANGlSx65D96aBE+7D/epsHxcBGOOH7zON/lr4M0v&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs>
         <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-d5e8d4-1-97d077-1-s-0">
             <stop offset="0%" style="stop-color: rgb(213, 232, 212); stop-opacity: 1;"/>
@@ -12,31 +12,5 @@
         <path d="M 0 71.21 L 65 102.42 L 130 71.21 M 65 102.42 L 65 140" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 65 0 L 130 31.21 L 130 58.79 L 65 90 L 0 58.79 L 0 31.21 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 0 31.21 L 65 62.42 L 130 31.21 M 65 62.42 L 65 90" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
-        <ellipse cx="165" cy="57.5" rx="7.5" ry="7.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
-        <path d="M 165 65 L 165 90 M 165 70 L 150 70 M 165 70 L 180 70 M 165 90 L 150 110 M 165 90 L 180 110" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <g transform="translate(-0.5 -0.5)">
-            <switch>
-                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 117px; margin-left: 165px;">
-                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
-                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
-                                Actor
-                            </div>
-                        </div>
-                    </div>
-                </foreignObject>
-                <text x="165" y="129" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    Actor
-                </text>
-            </switch>
-        </g>
     </g>
-    <switch>
-        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
-        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
-            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
-                Text is not SVG - cannot display
-            </text>
-        </a>
-    </switch>
 </svg>
