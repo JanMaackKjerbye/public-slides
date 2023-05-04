@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: ![w:250](https://www.randers.dk/static/logo.svg)
+footer: ![w:250](https://www.randers.dk/static/logo.svg) 
 ---
 
 <!--
@@ -13,54 +13,56 @@ headingDivider: 2
 paginate: true
 -->
 
-
 # AUTOMATISK DATAHØST
- OG DATAOMSÆTNING
-![bg blur:3px brightness:0.7](./img/datahighway-unsplash.jpg)
-effektivisering af dataarbejdet
+### 
+![bg blur:2px brightness:0.7](./img/taneli-lahtinen-bJiisZmEB2M-unsplash.jpg)
+###### digitale værktøjer til håndtering af store mængder data
+
 
 # DATAFORDELEREN
-<style scoped>
+<style>
 {
-  font-size: 27px
+  font-size: 30px
 }
 </style>
 
-##### en hjælpende digital hånd til dataejeren
+##### En hjælpende digital hånd til dataejeren
 ![bg right:25% h:800 saturate:0.5](./img/robotarm-unsplash.jpg)
-- Håndterer automatisk datahøst fra mange kilder
-- Omdanner data til et brugbart format via regler
-- Selvkørende indlæsning i tabeller
-- Muliggører samarbejde om regler og datakilder 
+- Automatisk datahøst fra mange kilder
+- Brugbar data via selvkørende filtre/formler 
+- Løbende indlæsning i centrale databaser
+- Fuld transparens i alle dele af processen 
+- Åbne standarder sikrer dataejerskab
 
 
 
 
 
-## HVORFOR
-<style scoped>
-{
-  font-size: 42px
-}
-</style>
-![bg blur:0px brightness:1](./img/manuel-unsplash.jpg)
-###### Sammenlignet med manuel dataindsamling
+## HVAD GIVER DATAFORDELEREN MIG?
+![bg blur:2px brightness:0.5](./img/manuel-unsplash.jpg)
+###### kompetencer og faglighed kommer i spil
 
-- sparer tid
-- reducerer fejl
-- konsoliderer data
-- sikrer databeskyttelse
+- Styrker samarbejde
+- Frigører tid
+- Reducerer fejl
+- Samler og beskytter data
 
-## HVORDAN ?
+## HVORDAN KOMMER JEG I GANG?
 ###### dataarbejde er teamwork
-![bg blur:0px brightness:0.4](./img/teamwork-unsplash.jpg)
+![bg blur:2px brightness:0.4](./img/teamwork-unsplash.jpg)
  - dataejer faciliterer og kommunikerer
  - løsningsarkitekt assisterer og stiller tekniske krav
  - udvikler integrerer oplysninger fra dataejer
  - alle deltager i test og kvalitetssikring
 
-  
+## HVORDAN ANVENDER JEG DATA?
+###### moderne explorativ dataanalyse
+![bg blur:2px brightness:0.4](./img/visualization-unsplash.jpg)
 
-# 🕰 🎉
+ - data gøres auomatisk tilgængelige til analyse
+ - diagrammer, tabeller og grafer designes via et grafisk lag
+ - mulighed for dybdegående analyse med SQL
 
-
+# Artist photos used in this presentation:
+- <a href="https://unsplash.com/@tanelah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taneli Lahtinen</a> on <a href="https://unsplash.com/photos/bJiisZmEB2M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- 
