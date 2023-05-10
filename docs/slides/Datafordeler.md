@@ -27,7 +27,7 @@ paginate: true
 - Trækker i dag fra bl.a. OpenData, Danmarks Statistik og Energidataservice
 - Leverer automatisk datahøst og datakonvertering
 - Vi ejer selv koden bag connectors og samarbejder gerne
-- Fuld åbenhed og transparens på koden. Alt ligger på GitHub
+- Fuld åbenhed og transparens, kode er placeret i GitHub
 - Vi stiller data til rådighed i vores egen datavisualisering
 
 
