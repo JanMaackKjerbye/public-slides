@@ -59,9 +59,12 @@ paginate: true
 ###### moderne explorativ dataanalyse
 ![bg blur:2px brightness:0.4](./img/visualization-unsplash.jpg)
 
+[![video alt text](http://img.youtube.com/vi/kGfUIOK87V8/0.jpg)](https://youtube.com/kGfUIOK87V8 "Apache Superset")
+
  - data gøres auomatisk tilgængelige til analyse
  - diagrammer, tabeller og grafer designes via et grafisk lag
  - mulighed for dybdegående analyse med SQL
+
 
 # Artist photos used in this presentation:
 - <a href="https://unsplash.com/@tanelah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taneli Lahtinen</a> on <a href="https://unsplash.com/photos/bJiisZmEB2M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
