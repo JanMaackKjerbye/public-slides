@@ -1,0 +1,16 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="131px" height="171px" viewBox="-0.5 -0.5 131 171" content="&lt;mxfile&gt;&lt;diagram id=&quot;001p49L88gVgY-71pwYB&quot; name=&quot;Page-1&quot;&gt;zZXBjoIwEIafhnuhQvG4outeNnvwsOdKR2gslNQisE+/BYpAdBPNxkQOpPPNTNuZvwUHR1m9VbRIPyUD4XiI1Q5eO54XoIV5t6DpQYgtSBRnPXJHsOM/YCGytOQMTrNALaXQvJjDWOY5xHrGqFKymocdpJivWtAErsAupuKafnOmU1uFR0b+ATxJh5XdYNl7MjoE20pOKWWymiC8cXCkpNT9KKsjEG3vhr70ee9/eC8bU5DrexLCPuFMRWlrs/vSzVBsqjNhRq6DV1XKNewKGreuykhrmKmgaE1+klG5B1PBak/jY6JkmbOvUgueg003IW950s3r+sY+cCEiKaTqFsIIhRShlstcT/ihe9qltJJHmGX4pMu4Ltt24gxKQz1Btg1bkBlo1ZgQ6x0UaYajZu1qFNjFlqUTcUPLqD1TyWXmse1mYDt/WwXyQiowH0K2uNXt0NvjIDCeRFHGYabRkjBEyFOU8O8U4qLYf5QIXkiJANGlSx65D96aBE+7D/epsHxcBGOOH7zON/lr4M0v&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-d5e8d4-1-97d077-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(213, 232, 212); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(151, 208, 119); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M 65 90 L 130 121.21 L 130 138.79 L 65 170 L 0 138.79 L 0 121.21 Z" fill="#008a00" stroke="#005700" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 121.21 L 65 152.42 L 130 121.21 M 65 152.42 L 65 170" fill="none" stroke="#005700" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 65 40 L 130 71.21 L 130 108.79 L 65 140 L 0 108.79 L 0 71.21 Z" fill="url(#mx-gradient-d5e8d4-1-97d077-1-s-0)" stroke="#82b366" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 71.21 L 65 102.42 L 130 71.21 M 65 102.42 L 65 140" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 65 0 L 130 31.21 L 130 58.79 L 65 90 L 0 58.79 L 0 31.21 Z" fill="#60a917" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 31.21 L 65 62.42 L 130 31.21 M 65 62.42 L 65 90" fill="none" stroke="#2d7600" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+</svg>
