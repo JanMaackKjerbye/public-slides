@@ -15,7 +15,7 @@ paginate: true
 
 # AUTOMATISK DATAHØST
 ### 
-![bg blur:2px brightness:0.7](./img/taneli-lahtinen-bJiisZmEB2M-unsplash.jpg)
+![bg blur:2px brightness:0.7](img/taneli-lahtinen-bJiisZmEB2M-unsplash.jpg)
 ###### digitale værktøjer til håndtering af store mængder data
 
 
