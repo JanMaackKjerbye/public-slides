@@ -13,10 +13,10 @@ headingDivider: 2
 paginate: true
 -->
 
-# STATUS K8s
+# STATUS
 ### Q2 -2023 
 ![bg blur:2px brightness:0.7](./img/taneli-lahtinen-bJiisZmEB2M-unsplash.jpg)
-###### digitale værktøjer til håndtering af store mængder data
+###### digitale værktøjer til datahåndtering
 
 
 # DATAFORDELEREN

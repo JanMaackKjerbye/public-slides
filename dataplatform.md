@@ -19,7 +19,7 @@ paginate: true
 # FÆLLES RAMMER
 
 
-![bg brightness:0.7 blur:1px](./media/papaioannou-kostas-tysecUm5HJA-unsplash.jpg)
+![bg brightness:0.7 blur:1px](./img/papaioannou-kostas-tysecUm5HJA-unsplash.jpg)
 
 
 - En ensartet leverance metode for alle projekter
@@ -30,7 +30,7 @@ paginate: true
 
 
 # 
-![bg right brightness:0.8 blur:0.8px](media/yancy-min-842ofHC6MaI-unsplash.jpg)
+![bg right brightness:0.8 blur:0.8px](img/yancy-min-842ofHC6MaI-unsplash.jpg)
 
 ### :octopus: GitOps with ArgoCD
 ### :repeat: Pull Requests
