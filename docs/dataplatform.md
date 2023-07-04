@@ -10,35 +10,49 @@ class:
 headingDivider: 2 
 paginate: true
 -->
-<style>
-{
-  font-size: 23px
-}
-</style>
 
-# :atom: FÆLLES RAMMER
+## FÆLLES RAMMER
+#### :thought_balloon: Organisering af tværgående samarbejder
+![bg brightness:0.5 blur:4px](../img/iker-urteaga-TL5Vy1IM-uA-unsplash.jpg)
 
-
-![bg brightness:0.5 blur:1px](../img/iker-urteaga-TL5Vy1IM-uA-unsplash.jpg)
-
-### Ensartede leverancemetoder til tværgående samarbejder.
-- Hjælper med at holde styr på kode og dokumentation via gennemsyn og godkendelse af ændringer
-- Åbner for at kunne spore ændringer og se, hvem der har lavet dem, hvornår og i hvilken del af løsningen
-- Muliggører transparente løsninger der er åbne for revision
-
-
-# 
-![bg right:48% brightness:0.7 blur:2px](../img/yancy-min-842ofHC6MaI-unsplash.jpg)
-
-### :octopus: Version Control
-| Pull Requests | GitHub | X as Code |
-### :package: Microservice Architecture
-| Containerization | Polyglot | API | MQ |
-
-# :toolbox: TOOL STACK
+##
+#### :balance_scale: GOVERNANCE
+![bg left:25% brightness:0.5 blur:1px](../img/iker-urteaga-TL5Vy1IM-uA-unsplash.jpg)
+- Hjælper med at styre kode og docs
+  ###### Versionstyring på alting
+- Åbner for at spore ændringer 
+  ###### Hvor, hvem og hvorfor?
+- Kræver gennemsyn og godkendelser
+  ###### Kun godkendte ændringer kommer i prod
 
 
-### :infinity: Apache Superset
-| Klimamonitor | GitHub repo |
+# METODER
+![bg brightness:0.7 blur:3px](../img/yancy-min-842ofHC6MaI-unsplash.jpg)
 
-### :red_square: Node-RED
+#
+![bg right:36% brightness:0.7 blur:1px](../img/yancy-min-842ofHC6MaI-unsplash.jpg)
+
+#### :octopus: Version Control
+ Pull Requests | Git | X as Code
+
+ :small_blue_diamond:
+
+#### :package: Microservice Architecture
+ Containers | Polyglot | API/MQ 
+
+# TOOLSTACK
+![bg brightness:0.5 blur:4px](../img/sigmund-B-x4VaIriRc-unsplash.jpg)
+##
+![bg left:39% brightness:0.6 blur:1px](../img/lucian-alexe-yh0UtueiZ-I-unsplash.jpg)
+#### :red_square: Node-RED
+ [LowCode | Expressions](http://localhost:1880/) 
+
+ :small_blue_diamond:
+ 
+#### :globe_with_meridians: Polyglot microservices
+[C# | Python | Node.js | R](https://github.com/jmk-randers/dev-polyglot-microservices)
+
+#
+![bg brightness:0.4 blur:2px](../img/visualization-unsplash.jpg)
+#### :infinity: Apache Superset
+  [Klimamonitor](https://superset.data.randers.dk/superset/dashboard/klimamonitor/) | [GitHub repo](https://github.com/Randers-Kommune-Digitalisering/vis-klimadata-initiativer-aktiviteterpr) 
