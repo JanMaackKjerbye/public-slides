@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: ![w:250](https://www.randers.dk/static/logo.svg)
+footer: ![w:200](https://www.randers.dk/static/logo.svg)
 ---
 <!--
 theme: uncover
@@ -16,22 +16,21 @@ paginate: true
 }
 </style>
 
-# FÆLLES RAMMER
+# :star: FÆLLES RAMMER
 
 
-![bg brightness:0.7 blur:1px](./img/papaioannou-kostas-tysecUm5HJA-unsplash.jpg)
+![bg brightness:0.5 blur:1px](../img/iker-urteaga-TL5Vy1IM-uA-unsplash.jpg)
 
-
-- En ensartet leverance metode for alle projekter
-- Åbner op for tværgående samarbejder, hvor alle trækker på samme hammel.
+### Ensartede leverancemetoder til tværgående samarbejder.
 - Hjælper med at holde styr på kode og dokumentation via gennemsyn og godkendelse af ændringer
 - Åbner for at kunne spore ændringer og se, hvem der har lavet dem, hvornår og i hvilken del af løsningen
 - Muliggører transparente løsninger der er åbne for revision
 
 
 # 
-![bg right brightness:0.8 blur:0.8px](img/yancy-min-842ofHC6MaI-unsplash.jpg)
+![bg right:48% brightness:0.7 blur:2px](../img/yancy-min-842ofHC6MaI-unsplash.jpg)
 
-### :octopus: GitOps with ArgoCD
-### :repeat: Pull Requests
-### :package: Containers
+### :octopus: Version Control
+| Pull Requests | GitHub | X as Code |
+### :package: Microservice Architecture
+| Containerization | Polyglot | API | MQ |
