@@ -16,7 +16,7 @@ paginate: true
 }
 </style>
 
-# :star: FÆLLES RAMMER
+# :atom: FÆLLES RAMMER
 
 
 ![bg brightness:0.5 blur:1px](../img/iker-urteaga-TL5Vy1IM-uA-unsplash.jpg)
@@ -34,3 +34,11 @@ paginate: true
 | Pull Requests | GitHub | X as Code |
 ### :package: Microservice Architecture
 | Containerization | Polyglot | API | MQ |
+
+# :toolbox: TOOL STACK
+
+
+### :infinity: Apache Superset
+| Klimamonitor | GitHub repo |
+
+### :red_square: Node-RED
