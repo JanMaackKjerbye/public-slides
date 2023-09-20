@@ -23,4 +23,4 @@ paginate: true
 
 # Ansible Semaphore
 ###### Modern web UI
-![bg right:50% blur:1px](../img/semaphore.gif)
+![bg right:51% blur:1px](../img/semaphore.gif)
