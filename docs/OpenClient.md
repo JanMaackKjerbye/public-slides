@@ -9,8 +9,15 @@ class:
 headingDivider: 2 
 paginate: true
 -->
+
+# OS²OpenClient
+LØST KOBLET STYRING AF LINUX DEVICES
+![bg blur:2px brightness:0.5](../img/sigmund-B-x4VaIriRc-unsplash.jpg)
+
+#
 ![brightness:0.6](../img/OS²concept-diagram.svg )
-### 🏗️ Koncept arkitektur
+### 🏗️
+ ARKITEKTUR - KONCEPT
 
 # Ansible Core
 ###### Agentless automatisk konfiguration og udrulning
@@ -21,6 +28,12 @@ paginate: true
    - [Beginner Tutorial](https://spacelift.io/blog/ansible-tutorial)
    - [Desktop Automation examples](https://beta-galaxy.ansible.com/ui/collections/?page_size=10&view_type=null&keywords=desktop&page=1)
 
-# Ansible Semaphore
-###### Modern web UI
-![bg right:51% blur:1px](../img/semaphore.gif)
+##
+### Ansible Semaphore
+![bg right:60% blur:1px](../img/semaphore.gif)
+ - [Modern Web UI](https://www.ansible-semaphore.com/)
+
+## OS Deployment
+###### nebootxyz
+
+https://netboot.xyz/
