@@ -19,10 +19,23 @@ paginate: false
 
 [ØNSKEDE EFFEKTER]()
 
-# 🎯 STRATEGISKE MÅL?
-![bg](https://images.pexels.com/photos/797900/pexels-photo-797900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-<span style="font-size:60%">🚀 Kadence ⚡  Vedligehold 📈 Driftseffektivitet
- 💎 Udbredelse 👁️ Transparens 🔐 Sikkerhed</span>
+[RISIKO MINIMERING]()
+
+#
+![bg l40% blur:2px brightness:0.6](https://images.pexels.com/photos/1383416/pexels-photo-1383416.jpeg)
+👁️ Transparens
+
+🚀 Kadence ⚡  Vedligehold
+
+ 📈 Driftseffektivitet  💎 Udbredelse  🔐 Sikkerhed
+
+#
+![bg blur:2px brightness:0.4](https://images.pexels.com/photos/2909083/pexels-photo-2909083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+### 👁️ STØRRE TRANSPARENS?
+[Er det nemt at få et overblik over produktets tilstand?]()
+
+[Er der tilgængelige datagrundlag for vurderingen?]()
 
 # ![bg blur:2px brightness:0.7](https://images.pexels.com/photos/248747/pexels-photo-248747.jpeg)
 
@@ -46,26 +59,19 @@ paginate: false
 [Er driften uden bindinger til leverandører, infratruktur eller økonomi?]()
 
 #
-![bg blur:2px brightness:0.7](https://images.pexels.com/photos/3696395/pexels-photo-3696395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg blur:2px brightness:0.6](https://images.pexels.com/photos/2014775/pexels-photo-2014775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ### 💎 STØRRE UDBREDELSE?
 [Er det nemt og hurtigt at komme til at evaluere produktet?]()
 [Er der bindinger til leverandører, infratruktur eller økonomi for at komme i gang?]()
 
 #
-![bg blur:2px brightness:0.4](https://images.pexels.com/photos/2909083/pexels-photo-2909083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-### 👁️ STØRRE TRANSPARENS?
-[Er det nemt at få et overblik over produktets tilstand?]()
-
-[Er der tilgængelige datagrundlag for vurderingen?]()
-
-#
 ![bg blur:2px brightness:0.4](https://images.pexels.com/photos/6366444/pexels-photo-6366444.jpeg)
 ### 🔐 STYRKET SIKKERHED
 
-#
+# RISIKO MINIMERING
 
+#
 ### TILTAG
 ###### [Changelogs, worklogs, issuetracking, anvendelsesstatistik]()
 
