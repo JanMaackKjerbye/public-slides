@@ -70,17 +70,27 @@ paginate: false
 ### 🔐 STYRKET SIKKERHED
 
 # RISIKO MINIMERING
+![bg blur:1px brightness:0.6](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+### Formuler de relevante spørgsmål!
 
+###### 
+
+    Hvad sker der, hvis din leverandør går konkurs eller bliver købt af en anden virksomhed?
+	Hvad kan du gøre hvis din leverandør ikke følger med de teknologiske fremskridt eller satser på en uegnet eller umoden teknologi og det påvirker dit produkt?
+	Hvad har du af muligheder hvis din leverandør tager for mange kunder eller projekter ind på én gang og deadlines begynder at skrider samt kvaliteten daler.
+	Hvad kan du gøre hvis din leverandør pludseligt hæver priserne? 
+	Hvad hvis din leverandør ikke kan opfylde nye lovgivningsmæssige krav?
+	Hvordan har du sikret dig hvis din leverandør bliver udsat for cyberangreb?
+
+
+    Hvad gør du for at undgå forvirring og frustrationer blandt brugere og samarbejdspartnere, hvis den officielle dokumentation er tilgængelig i flere inkonsistente versioner?
+	Hvordan sikrer man bedst muligt produktet imod tidskrævende og omkostningstunge omskrivninger af kode med kort deadline p.g.a. forandringer i lovgivning, praksis eller andre eksterne forhold? 
+	Hvem betaler regningen hvis flere udviklere kommer til at lave dobbelt-arbejde på samme fejlrettelse eller nye funktion men i forskellige versioner af koden til produktet som de antog var den officielle.
+	Hvordan sikrer du dig at sikkerhedshuller kan opdages, lokaliseres i kildekoden og rettes hurtigt og effektivt?
+	Hvordan undgår man fordyrende, tunge manuelle mellemled hver eneste gang der skal leveres en fejlretning eller en bestilt function?
+	Hvordan sikrer man sig som produktejere at leverandørerne overholder Open Source Licenseringen som projektet har valgt?
 #
 ### TILTAG
-###### [Changelogs, worklogs, issuetracking, anvendelsesstatistik]()
+![bg blur:1px brightness:0.2](https://images.pexels.com/photos/1117132/pexels-photo-1117132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-#
-
-##
-![bg left:30% brightness:0.6 blur:1px](../img/lucian-alexe-yh0UtueiZ-I-unsplash.jpg)
-
-- Er det at få opridset forretningsmæssige risisci ved den nuværende tilstand af sofd?
-- Er det at evaluere de nuværende metoder og rammer for udvikling og leverance af produktet?
-- Er det at finde potentielle sikkerhedshuller i den kode der udgør produktet?
-- Er det at få vurderet i hvilken grad produktet er rustet til fremtiden?
+###### [Changelogs, worklogs, issuetracking, anvendelsesstatistik, roller og ansvar, flere leverandører, åbne løskoblede moduler]()
