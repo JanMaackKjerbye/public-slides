@@ -8,7 +8,7 @@ transition: dissolve
 class:
  - invert
 headingDivider: 2 
-paginate: true
+paginate: false
 -->
 
 ### OS²OpenClient
@@ -27,9 +27,9 @@ LØST KOBLET STYRING AF LINUX DEVICES
 
 <pre class="mermaid">
 
-flowchart TB
+graph TB
 
-semaphore("`**ManagementUI** *github.com/ ansible-semaphore* `");
+semaphore(&amp#x1F619 ManagementUI- ansible-semaphore);
 
 subgraph NUC
 debarm("`**OS²OpenClient** debian_x64`")-.-
@@ -49,6 +49,7 @@ end
 
 configman<-->semaphore
 configman--ssh-->RPi & NUC
+
 </pre>
 
 #
