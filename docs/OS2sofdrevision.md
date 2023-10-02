@@ -20,6 +20,7 @@ paginate: false
 ![bg l40% blur:2px brightness:0.3](https://images.pexels.com/photos/3184660/pexels-photo-3184660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 #
+![bg l40% blur:3px brightness:0.2](https://images.pexels.com/photos/131979/pexels-photo-131979.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ###### 👁️ STØRRE TRANSPARENS?  🚀 ØGET KADENCE?
 ###### 💎 STØRRE UDBREDELSE? 🔐 STYRKET SIKKERHED?
 ######  ⚡ OPTIMERET VEDLIGEHOLD? 📈 HØJERE DRIFSEFFEKTIVITET?
