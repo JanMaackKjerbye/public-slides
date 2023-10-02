@@ -16,20 +16,27 @@ paginate: false
 ###### REVISION 2023
 
 ## **Forventninger til resultatet**
- af gennemført revision?
+ efter gennemført revision
 ![bg l40% blur:2px brightness:0.3](https://images.pexels.com/photos/3184660/pexels-photo-3184660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+#
+###### 👁️ STØRRE TRANSPARENS?  🚀 ØGET KADENCE?
+###### 💎 STØRRE UDBREDELSE? 🔐 STYRKET SIKKERHED?
+######  ⚡ OPTIMERET VEDLIGEHOLD? 📈 HØJERE DRIFSEFFEKTIVITET?
 
-##  CODE REVIEW
-![bg l40% blur:2px brightness:0.6](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
- ###### **Et code-review udtaler sig KUN om de tekniske aspekter af den rå kildekode**
 
-       Formålene med et code-review er at:
+#
+#### **CODE REVIEW**
+![bg l40% blur:2px brightness:0.4](https://images.pexels.com/photos/1102797/pexels-photo-1102797.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-        👾 Finde og rette fejl i kildekoden, der ikke er fundet i de foregående udviklingsfaser
- 
-        💎 Forbedre kvalitet af koden og sikre, at den overholder standarder og best practice
+###### 👾 Finder fejl i kildekoden, der ikke er fundet i de foregående udviklingsfaser
+###### 💎 Foreslår kvalitetsforbedringer af kildekoden og sikrer, at den overholder standarder og best practice
+###### 🧬 Forholder sig alene til kildekoden og ikke til andre aspekter
 
+#
+### PROJEKT EVALUERING 
+![bg blur:1px brightness:0.4](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+###### **mere end bare kodeanalyse**
 
 #
 #### **PRODUKT UDBYTTE**
@@ -43,32 +50,29 @@ paginate: false
 
 #
 #### **STRATEGISKE GEVINSTER**
-![bg left:25% blur:1px brightness:0.4](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg right:25% blur:1px brightness:0.4](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ###### 📈 Produktsamarbejdets bæredygtighed og udviklingspotentiale
 ###### 👁️ Gennemsigtighedsgraden af metoder, samarbejde, resultater og processer?
 ###### 👥 Fællesskabets helbred
 
-
-
 #
 #### **DRIFTS EFFEKTIVITET**
-![bg right:25% blur:1px brightness:0.4](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg left:25% blur:1px brightness:0.4](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ###### 💶 Produktets omkostningseffektivitet, budgetoverholdelse eller ROI
 ###### ⏱️ Ydeevne eller ressource effektivitet af en kørende udgave af produktet.
 ###### ⚖️ Produktets lovformeligehed eller overholdelse af compliance og governance
 
-# RISIKO MINIMERING
-![bg blur:1px brightness:0.4](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-##### **Beredskab & Ansvar**
+#
+###### https://www.redhat.com/en/blog/12-factors-measuring-open-source-projects-health
+![bg right w:620 ](../img/redhat_blog.png)
 
 #
 ![bg blur:2px brightness:0.4](https://images.pexels.com/photos/2909083/pexels-photo-2909083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ### 👁️ STØRRE TRANSPARENS?
-[Er det nemt at få et overblik over produktets tilstand?]()
+###### **Er det nemt at få et overblik over produktets tilstand?**
 
-[Er der tilgængelige datagrundlag for vurderingen?]()
-
+###### **Er der tilgængelige datagrundlag for vurderingen?**
 # ![bg blur:2px brightness:0.7](https://images.pexels.com/photos/248747/pexels-photo-248747.jpeg)
 
 ### 🚀 ØGET KADENCE?
