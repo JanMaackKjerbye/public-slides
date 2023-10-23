@@ -16,7 +16,7 @@ paginate: false
 ###### REPO SETUP OCT 2023
 
 ## **STRATEGISK FUNDAMENT**
-![bg brightness:0.4](https://images.pexels.com/photos/18624136/pexels-photo-18624136/free-photo-of-bygning-gangbro-korridor-entre.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg brightness:0.4](https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg)
 #### Talentudvikling:small_blue_diamond:Rammeskabelse
 #### Åbenhed:small_blue_diamond:Ejerskab
 
@@ -31,7 +31,7 @@ paginate: false
 ## **RAMMMESKABELSE**
 
 #### *Operationalisering af processer og metoder*
- Automatsering:small_blue_diamond:Ensartethed
+ Automatisering:small_blue_diamond:Ensartethed
  Flerleverandør samarbejde
 ![bg l40% blur:2px brightness:0.3](https://images.pexels.com/photos/3184660/pexels-photo-3184660.jpeg)
 
@@ -39,9 +39,10 @@ paginate: false
 #### 🫱🏾‍🫲🏼 CONTRIBUTING.md
 ![bg brightness:0.4](https://images.pexels.com/photos/461049/pexels-photo-461049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ###### ⭐ Issues trackes i GitHub 
-###### ⭐ Commits og PRs linkes til issues
+###### ⭐ [Commits og PRs linkes til issues](https://gitdailies.com/articles/link-github-commit-to-issue/)
 ###### ⭐ Flow: issue->branch->commit/PR 
-###### ⭐ Conventional Commits
+###### ⭐ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+###### ⭐ [Standard for Public Code](https://standard.publiccode.net/)
 <!--Eksempler:
 
 chore: update project dependencies #3456
@@ -61,10 +62,10 @@ Der kan også vælges GitHub Projects til styring.
 
 Hvis arbejdet bliver for tungt kan der investeres i automatisk synkronisering.-->
 
-#
+##
+#### Spørgsmål til nuværende tilstand
 ![bg blur:1px brightness:0.3](https://images.pexels.com/photos/5428833/pexels-photo-5428833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ###### ❓ Er der lavet Dockerfiler?
-##### ❓ CI/CD: Bliver der bygget images automatiskt med github actions?
-❓ Er der lavet en docker-compose til udvikling/demo/test?
-❓ Placeres integrationer i eget repo
-❓ Kan de køre løskoblet som standalone services med standard snitflader?
+###### ❓ CI/CD: Bliver der bygget images automatiskt med github actions?
+###### ❓ Er der lavet en docker-compose til udvikling/demo/test?
+###### ❓ Placeres integrationer i eget repo? Og kan de køre løskoblet som standalone services med standard snitflader (ala OS2Sync)?
