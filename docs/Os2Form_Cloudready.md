@@ -16,6 +16,10 @@ paginate: false
 :small_blue_diamond:
 ###### CLOUD NATIVE READINESS
 
+# **FORVENTNINGER?**
+* Frigørelse fra on-prem infrastruktur?
+* 
+
 ## :cloud: **CLOUD NATIVE APPLIKATION**
 
 #####  En type software, der er designet til at fungere optimalt i et cloud computing miljø.
@@ -41,6 +45,6 @@ Automatiserde sikkerhedsopdateringer -
 
 Løskoblede services - 
 Leveret i selvstændige letvægts moduler (containere)
-Orkestrering -
-
+Standardisering og genbrug 
+Orkestrering
 

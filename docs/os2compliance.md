@@ -36,7 +36,7 @@ paginate: false
 ![bg l40% blur:2px brightness:0.3](https://images.pexels.com/photos/3184660/pexels-photo-3184660.jpeg)
 
 ##
-#### 🫱🏾‍🫲🏼 CONTRIBUTING.md
+### 📝 CONTRIBUTING.md
 ![bg brightness:0.4](https://images.pexels.com/photos/461049/pexels-photo-461049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ###### ⭐ Issues trackes i GitHub 
 ###### ⭐ [Commits og PRs linkes til issues](https://gitdailies.com/articles/link-github-commit-to-issue/)
@@ -52,7 +52,7 @@ fix: resolve null reference exception in data processing module #1234
 feat: implement typeahead in the product catalog search functionality #7890 -->
 
 ## 
-#### ☸️ STYRING
+### ☸️ STYRING
 ![bg blur:1px brightness:0.6](https://images.pexels.com/photos/1416649/pexels-photo-1416649.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ###### ⭐ Epics samler issues og ligger i GitHub - kan synces til Jira
 ###### ⭐ Hvis arbejdet bliver for tungt kan der investeres i automatisk synkronisering.
