@@ -16,6 +16,7 @@ theme: uncover
 
 ## CLOUD? :cloud:
 ![bg blur1px brightness:0.9](https://images.pexels.com/photos/3472690/pexels-photo-3472690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+<!--Hvad mener styregruppen når de siger Cloud? Hvilke forventede effekter eller gevinster ser i komme ud af en investering i cloud?-->
 
 ##
 ![bg blur:1px brightness:0.8](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
@@ -64,7 +65,8 @@ theme: uncover
 
 ## PERSPEKTIVER
 ![bg blur:4px brightness:0.5](https://images.unsplash.com/photo-1592111332908-f8f7fe1bb041?auto=format&fit=crop&q=80&w=1480&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-👨🏻‍💻 OS²Forms kan allerede cloud hostes håndholdt af en enkelt leverandør
+👨🏻‍💻 OS²Forms kan allerede cloud hostes i en 1 gen. løsning
+(håndholdt af en enkelt leverandør)
 
 :star:
 ❌ OS²Forms er ikke bygget til skyen
