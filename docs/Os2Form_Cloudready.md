@@ -47,13 +47,13 @@ theme: uncover
 ##
 ![bg blur:1px brightness:0.6](https://images.pexels.com/photos/1381415/pexels-photo-1381415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 #### :cloud: 2. Generation Cloud
-#### CLOUD NATIVE - **BYGGET TIL SKYEN**
+#### CLOUD NATIVE - **BYGGET TIL SKYEN**<!--Bredere fokus på at levere kvalitet til de mennesker der møder teknologien og som noget nyt også dem som udvikler teknologien. Ingen ventetider, konstant tilgængelige services og lynhurtig iplementering af nye ydelser til borgerne -->
 
 ##
 ![bg blur:1px brightness:0.4](https://images.pexels.com/photos/1381415/pexels-photo-1381415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ##### :cloud: CLOUD NATIVE - **BYGGET TIL SKYEN**
-<!--Bredere fokus på at levere kvalitet til de mennesker der møder teknologien og som noget nyt også dem som udvikler teknologien. Ingen ventetider, konstant tilgængelige services og lynhurtig iplementering af nye ydelser til borgerne -->
+
 ###### 📦 **Lynhurtige og hyppige forbedringer** ingen ventetider <!-- Med løskoblede services og moduler kan forskellige teams på tværs af leverandører arbejde uafhængigt på leverancer og dermed ingen ventetid på levering fordi det ene team har en længere leveringstid og at hele applikationen skal genbygges-->
 ###### :link: **Sammenhængende oplevelser** med simple standard integrationer <!-- Brugeren vil have en mere strømlinet og sammenhængende oplevelse, når forskellige tjenester og applikationer kan arbejde sammen uden problemer. For eksempel, hvis en cloud-native e-handelsapplikation er integreret med en cloud-baseret betalingstjeneste, kan brugeren gennemføre køb uden at skulle forlade applikationen.-->
 ###### :earth_africa: **Øget udbredelse** via platform og leverandør uafhængighed <!--Cloud-native applikationer har potentialet til at nå et bredere publikum på grund af deres globale skalerbarhed, platformuafhængighed og evne til hurtig iteration. Desuden giver nem integration med andre cloud-tjenester brugerne adgang til en bredere vifte af funktioner og tjenester, hvilket kan gøre produktet mere attraktivt. Endelig giver leverandøruafhængighed virksomhederne frihed til at vælge den cloud-leverandør, der bedst opfylder deres specifikke behov og krav, hvilket kan hjælpe med at holde omkostningerne nede og sikre, at virksomheden får mest muligt ud af sin investering i skyen.-->
