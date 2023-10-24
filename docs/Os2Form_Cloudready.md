@@ -18,7 +18,11 @@ theme: uncover
 ![bg blur1px brightness:0.9](https://images.pexels.com/photos/3472690/pexels-photo-3472690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ##
-![bg blur:1px brightness:0.4](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
+![bg blur:1px brightness:0.8](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
+#### 🌐 CLOUD HOSTING - **DRIFT SOM EN SERVICE**
+
+##
+![bg blur:1px brightness:0.2](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
 #### 🌐 CLOUD HOSTING - **DRIFT SOM EN SERVICE**
 <!-- Fokus på maskinrummet og på de voksende udgifter til uddannet personale, men set fra anvenderens synspunkt er det servicen den samme eller en lille smule forværret -->
 
@@ -29,7 +33,7 @@ theme: uncover
 ###### ⚖️ Fra personalepleje til **leverandørstyring**
 
 ##
-![bg blur:1px brightness:0.4](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
+![bg blur:1px brightness:0.2](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
 #### 🌐 CLOUD HOSTING - **DRIFT SOM EN SERVICE**
 
 ###### 🔒 **Låst** til specifik leverandør og produkt, **ingen åbne standarder**
@@ -40,7 +44,7 @@ theme: uncover
 
 
 ##
-![bg blur:1px brightness:0.4](https://images.pexels.com/photos/1381415/pexels-photo-1381415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg blur:1px brightness:0.6](https://images.pexels.com/photos/1381415/pexels-photo-1381415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 #### :cloud: CLOUD NATIVE - **BYGGET TIL SKYEN**
 
@@ -59,12 +63,12 @@ theme: uncover
 
 ## PERSPEKTIVER
 ![bg blur:4px brightness:0.5](https://images.unsplash.com/photo-1592111332908-f8f7fe1bb041?auto=format&fit=crop&q=80&w=1480&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
- OS²Forms kan allerede cloud hostes håndholdt af en enkelt leverandør
+👨🏻‍💻 OS²Forms kan allerede cloud hostes håndholdt af en enkelt leverandør
 
 :star:
-OS²Forms er ikke bygget til skyen
+❌ OS²Forms er ikke bygget til skyen
 
-:moneybag: Det kræver tid og penge at løfte OS²Forms derhen
+:moneybag: Det kræver investeringer at løfte OS²Forms derhen
 
 #
 ![bg blur:1px brightness:0.2](https://images.pexels.com/photos/5238645/pexels-photo-5238645.jpeg)
@@ -78,15 +82,13 @@ OS²Forms er ikke bygget til skyen
 *“The pessimist complains about the wind;
  the optimist expects it to change;
   the realist adjusts the sails.”*
-# MÅL
-![bg](https://images.pexels.com/photos/7993050/pexels-photo-7993050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-Løskoblede API first services
-Pakket som selvstændige letvægts containere
-Standardisering og genbrug af eksisterende løsninger
-Automatisk byg og implementering
-Decentraliseret storage
-Stateless core
+#
+#### **MÅL**
+![bg left:37%](https://images.pexels.com/photos/7993050/pexels-photo-7993050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+###### Løskoblede API first services, pakket som selvstændige letvægts containere
+###### Fokus på standardisering og genbrug
+###### Automatisk byg og implementering
+###### Decentraliseret storage og stateless core
 
 #
 ### ANBEFALINGER
@@ -96,30 +98,17 @@ Stateless core
 * Resultaterne forankres i en PoC der demonstrerer værdiskabelsen
 * Først derefter besluttes om der skal investeres yderligere
 
-
-
 #
-### CLOUD NATIVE HISTORIE
-Indbygget exit-strategi Ydeevne Resiliens Kosteffektivitet
-Automatiseret implementering
-Automatiserde sikkerhedsopdateringer
-Transparens
-
-´´´markdown
-timeline
-title Towards Cloud Native
+### TOWARDS **CLOUD NATIVE**
 1999-2003: Virtualization : VMWare Virtual platform : Connectix VirtualPC : Microsoft Virtual Server 
 2002-2008: Cloud hosting : Amazon Public Cloud (EC2) : Google Cloud Platform (Borg)
 2007-2001: Cloud ready apps : DevOps : 12factor App
 2013-2014: Containerization : Docker : Google Kubernetes
 
-´´´
-## **CLOUD GENERATIONER** 
-
-#### **Cloud Hosting** - "Cloud 0.5" (AWS 2004)
+##
+#### :cloud: **CLOUD** GENERATIONER 
+##### **Cloud Hosting** - "Cloud 0.5" (Amazon Web Services 2004)
 ###### Infrastruktur flyttet i skyen. Traditionel manuel drift
-
-#### **Hybrid Cloud** - "Cloud 1.0" (GCP 2010)
-
-#### **Cloud Native** - "Cloud 2.0"  (2015)
+##### **Hybrid Cloud** - "Cloud 1.0" (Google Cloud 2010)
+##### **Cloud Native** - "Cloud 2.0"  (Cloud Native Computing Foundation 2015)
 ###### Moderne automatiseret drift, uafhængighed og effektivitet
