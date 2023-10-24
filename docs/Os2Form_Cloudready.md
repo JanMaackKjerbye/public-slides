@@ -15,7 +15,7 @@ theme: uncover
 ###### CLOUD NATIVE POTENTIALER
 
 ## CLOUD? :cloud:
-![bg blur1px brightness:0.9](https://images.pexels.com/photos/3472690/pexels-photo-3472690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg brightness:0.9](https://images.pexels.com/photos/3472690/pexels-photo-3472690.jpeg)
 <!--Hvad mener styregruppen når de siger Cloud? Hvilke forventede effekter eller gevinster ser i komme ud af en investering i cloud?-->
 
 ##
