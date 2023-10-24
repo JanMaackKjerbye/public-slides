@@ -19,12 +19,13 @@ theme: uncover
 
 ##
 ![bg blur:1px brightness:0.8](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
-#### 🌐 CLOUD HOSTING - **DRIFT SOM EN SERVICE**
+#### 🌐 1. Generation Cloud
+
+###### **HOSTING - DRIFT SOM EN SERVICE**
 
 ##
 ![bg blur:1px brightness:0.2](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
-#### 🌐 CLOUD HOSTING - **DRIFT SOM EN SERVICE**
-<!-- Fokus på maskinrummet og på de voksende udgifter til uddannet personale, men set fra anvenderens synspunkt er det servicen den samme eller en lille smule forværret -->
+###### 🌐 1. Generation Cloud - **HOSTING**<!-- Fokus på maskinrummet og på de voksende udgifter til uddannet personale, men set fra anvenderens synspunkt er det servicen den samme eller en lille smule forværret -->
 
 ###### :moneybag: Ingen investeringer i infrastruktur
 
@@ -34,7 +35,7 @@ theme: uncover
 
 ##
 ![bg blur:1px brightness:0.2](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
-#### 🌐 CLOUD HOSTING - **DRIFT SOM EN SERVICE**
+###### 🌐 1. Generation Cloud - **HOSTING**
 
 ###### 🔒 **Låst** til specifik leverandør og produkt, **ingen åbne standarder**
 
@@ -45,13 +46,13 @@ theme: uncover
 
 ##
 ![bg blur:1px brightness:0.6](https://images.pexels.com/photos/1381415/pexels-photo-1381415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-#### :cloud: CLOUD NATIVE - **BYGGET TIL SKYEN**
+#### :cloud: 2. Generation Cloud
+#### CLOUD NATIVE - **BYGGET TIL SKYEN**
 
 ##
 ![bg blur:1px brightness:0.4](https://images.pexels.com/photos/1381415/pexels-photo-1381415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-#### :cloud: CLOUD NATIVE - **BYGGET TIL SKYEN**
+##### :cloud: CLOUD NATIVE - **BYGGET TIL SKYEN**
 <!--Bredere fokus på at levere kvalitet til de mennesker der møder teknologien og som noget nyt også dem som udvikler teknologien. Ingen ventetider, konstant tilgængelige services og lynhurtig iplementering af nye ydelser til borgerne -->
 ###### 📦 **Lynhurtige og hyppige forbedringer** ingen ventetider <!-- Med løskoblede services og moduler kan forskellige teams på tværs af leverandører arbejde uafhængigt på leverancer og dermed ingen ventetid på levering fordi det ene team har en længere leveringstid og at hele applikationen skal genbygges-->
 ###### :link: **Sammenhængende oplevelser** med simple standard integrationer <!-- Brugeren vil have en mere strømlinet og sammenhængende oplevelse, når forskellige tjenester og applikationer kan arbejde sammen uden problemer. For eksempel, hvis en cloud-native e-handelsapplikation er integreret med en cloud-baseret betalingstjeneste, kan brugeren gennemføre køb uden at skulle forlade applikationen.-->
