@@ -24,11 +24,21 @@ paginate: false
 #### 🌐 **CLOUD HOSTING - DRIFT SOM EN SERVICE**
 <!-- Fokus på maskinrummet og på de voksende udgifter til uddannet personale, men set fra anvenderens synspunkt er det servicen den samme eller en lille smule forværret -->
 
-:moneybag: Ingen investeringer i infrastruktur
+###### :moneybag: Ingen investeringer i infrastruktur
 
-👤 Skalerbare personale udgifter
+###### 👤 Skalerbare personale udgifter
 
-⚖️ Fra personalepleje til leverandørstyring
+###### ⚖️ Fra personalepleje til leverandørstyring
+
+##
+![bg blur:1px brightness:0.4](https://images.pexels.com/photos/2064123/pexels-photo-2064123.jpeg)
+#### 🌐 **CLOUD HOSTING - DRIFT SOM EN SERVICE**
+
+###### 🔒 Låst til specifik leverandør og produkt, ingen åbne standarder
+
+###### Ingen s
+
+###### 💵 Besparelser nåes via traditionelle stordriftsfordele
 
 ##
 ![bg blur:1px brightness:0.4](https://images.pexels.com/photos/1381415/pexels-photo-1381415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
