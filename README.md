@@ -1,3 +1,3 @@
-# Offentlige præsentationer
+# Offent
 
-https://jmk-randers.github.io/jmk-public-slides/docs/
+## 🔗 https://janhalen.github.io/public-slides/)https://janhalen.github.io/public-slides/
