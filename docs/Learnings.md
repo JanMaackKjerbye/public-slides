@@ -20,21 +20,32 @@ paginate: false
 #
 <!-- header: "**OS²compliance**" -->
 ![bg left:58% 100% opacity:0.7 brightness:0.88](../img/compliance_insight.png)
-###### **🔩 Alle ændringer er tydelige og stemplet med tid, udvikler og formål**
+###### **🎟️ Alle ændringer er tydelige og stemplet med tid, udvikler og formål**
 
 #
 ![bg left:55% 100% opacity:0.78](../img/ComplianceDocs.gif)
-###### **🔩 Dokumentationen følger fælles OS2 standard**
+###### **📖 Dokumentationen følger fælles OS2 standard**
 
 
-## 🧪 [OS²Lab](https://github.com/OS2lab)
- 
+# 🧊 OS²s inhouse "3D printer"
 <!-- _header: "" -->
-![bg blur:1px saturate:0.9 hue-rotate:9deg brightness:0.45](https://images.pexels.com/photos/19124461/pexels-photo-19124461/free-photo-of-folk-kreativ-industri-kaeledyr.jpeg)
-OS²s inhouse "3D printer"
-🏗️
-###### Proof of Concept | Trykprøvning af leverandører | Behovsafklaring
+![bg blur:1px saturate:0.3 brightness:0.45](https://images.pexels.com/photos/19124461/pexels-photo-19124461/free-photo-of-folk-kreativ-industri-kaeledyr.jpeg)
 
-##
-![bg](https://images.pexels.com/photos/7108124/pexels-photo-7108124.jpeg)
+### [OS²Lab](https://github.com/OS2lab)
+ 
+###### 🔶 Proof of Concept 🔶 Trykprøvning af leverandører 🔶 Behovsafklaring
+
+## 🪪 [OS²ID](https://github.com/OS2lab/OS2ID)
+<!-- _header: "" -->
+###### ✅ Upstream first
+###### 📐 Åbne Standarder
+###### 🕋 Minimum viable design
+###### 🧩 Løskoblet og genbrugelig
+
+![blur:1px bg right:42%](https://images.unsplash.com/photo-1689804847843-76c6719a79c7)
 <!-- header: "**OS²ID**" -->
+<!--
+Baseret på upstream komponenten Authentik
+Kun basal login flow understøttes i PoC
+Bygger på standard teknologier (JWT OpenIDconnect) og kan anvendes i andre os2produkter som authentication/authorization komponent
+-->
