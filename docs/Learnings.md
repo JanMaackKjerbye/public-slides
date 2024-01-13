@@ -2,7 +2,7 @@
 marp: true
 footer: ![w:150 opacity:1 brightness:4](https://www.os2.eu/web/image/website/1/logo/OS2%20%E2%80%93%20Offentligt%20digitaliseringsf%C3%A6llesskab?unique=8a4ead6)
 theme: uncover
-transition: dissolve
+transition: melt
 class:
  - invert
 headingDivider: 2 
@@ -14,7 +14,7 @@ paginate: false
 ![bg blur:2px saturate:0.75 hue-rotate:700deg brightness:0.4](https://images.pexels.com/photos/4779729/pexels-photo-4779729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Transparens som grundlag for øget involvering, udbredelse og kvalitet.
-
+<!-- transition: cube -->
 
 
 #
