@@ -27,13 +27,6 @@ jobs:
       - name: Copy images directory (if exists)
         run: if [[ -d img ]]; then cp -R img build/img; fi
 
-      - name: Marp Build (README)
-        uses: docker://marpteam/marp-cli:v3.0.2
-        with:
-          args: README.md -o build/index.html
-        env:
-          MARP_USER: root:root
-
       - name: Marp Build (README.pdf)
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
@@ -63,7 +56,7 @@ jobs:
       - name: Github Pages Directory Listing
         uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
-          FOLDER: docs  #directory to generate index
+          FOLDER: build/docs  #directory to generate index
 
       - name: Deploy preview
         if: ${{ github.event_name == 'pull_request' }}
