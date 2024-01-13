@@ -77,6 +77,6 @@ jobs:
           clean-exclude: pr-preview/
       
       - name: Github Pages Directory Listing
-          uses: jayanta525/github-pages-directory-listing@v4.0.0
-          with:
-          FOLDER: docs  #directory to generate index  
+        uses: jayanta525/github-pages-directory-listing@v4.0.0
+        with:
+          FOLDER: docs  #directory to generate index
