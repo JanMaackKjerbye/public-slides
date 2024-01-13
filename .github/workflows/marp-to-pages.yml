@@ -59,6 +59,11 @@ jobs:
           args: -I docs/ -o build/docs/
         env:
           MARP_USER: root:root
+      
+      - name: Github Pages Directory Listing
+        uses: jayanta525/github-pages-directory-listing@v4.0.0
+        with:
+          FOLDER: docs  #directory to generate index
 
       - name: Deploy preview
         if: ${{ github.event_name == 'pull_request' }}
@@ -75,8 +80,3 @@ jobs:
           branch: gh-pages
           folder: ./build/
           clean-exclude: pr-preview/
-      
-      - name: Github Pages Directory Listing
-        uses: jayanta525/github-pages-directory-listing@v4.0.0
-        with:
-          FOLDER: docs  #directory to generate index
