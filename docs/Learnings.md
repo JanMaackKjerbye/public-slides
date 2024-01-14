@@ -58,10 +58,10 @@ Fælles identitessikkerhed baseret på åbne standarder
 # 
 <!-- _header: "🪪 [OS²ID](https://github.com/OS2lab/OS2ID)" -->
 ![blur:1px bg left:50% brightness:0.4](https://images.unsplash.com/photo-1585079374502-415f8516dcc3)
-SAMMENSAT AF EKSISTERENDE KOMPONENTER
+BASERET PÅ EKSISTERENDE KOMPONENTER
 
-###### 🔮 Bygget til fremtiden
 ###### ♻️ Klar til genbrug
+###### 🔮 Bygget til fremtiden
 <!--
 ###### 🎁 **Et NIS2 understøttende bidrag fra OS²** 
 Bygger på standard teknologier (JWT OpenIDconnect) og
