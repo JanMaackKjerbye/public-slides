@@ -10,7 +10,7 @@ paginate: false
 ---
 
 
-# ⚖️ [OS²compliance](https://github.com/OS2compliance/)
+# ⚖️ Sovereign Cloud
 ![bg blur:2px saturate:0.75 hue-rotate:700deg brightness:0.4](https://images.pexels.com/photos/4779729/pexels-photo-4779729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Transparens som grundlag for øget involvering, udbredelse og kvalitet.
