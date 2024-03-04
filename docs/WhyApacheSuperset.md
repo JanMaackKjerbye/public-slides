@@ -17,14 +17,14 @@ paginate: false
 ###### 📨 jan@os2.dk
 
 #
-#### ∞ **Apache Superset**
-###### Afdækning af potentiel forretningsværdi og strategisk compliance
+#### :infinity: Apache Superset
+###### **Moderne explorativ dataanalyse**
 
 ![bg bg blur:1px brightness:0.3](https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 # 
 #### **BRED INDRAGELSE**
-![bg blur:1px brightness:0.6](https://images.pexels.com/photos/1198171/pexels-photo-1198171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg blur:1px sepia:0.5 brightness:0.8](https://images.pexels.com/photos/1198171/pexels-photo-1198171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ###### 👥 Flere indgangsvinkler til dataanalysen, både en explorativ UI-drevet indgang og en kodenær SQL tilgang.
 ###### 🔮 Fremtidssikret inddragelse af flest mulige medarbejderne på forskellige kompetence niveauer 
@@ -34,19 +34,17 @@ paginate: false
 #### **STRATEGISK LEVERANCE**
 ![bg blur:1px brightness:0.5](https://images.pexels.com/photos/2323562/pexels-photo-2323562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-###### ⚖️ Standardiseret, åbent og løskoblet og dermed forberedt til at kunne overholde Den Fællesoffentlige Digitale Arkitektur 
-###### 🧩 Består af delbare og genbrugelige komponenter og opfylder dermed de stragiske krav om Digitale Fundamenter i Den Fælllesoffentlige Digitaliseringsstrategi 
+###### ⚖️ Standardiseret, åbent og løskoblet
+###### 🧩 Består af delbare og genbrugelige komponenter
 
 
 # 
-#### **DIREKTE FORRETNINGSVÆRDI**
-![bg blur:1px brightness:0.5](https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+#### **FORRETNINGSVÆRDI**
+![bg blur:2px brightness:0.4](../img/visualization-unsplash.jpg)
 
 ###### 🛢 Ingen ventetid eller omkostninger til datamigrering
 ###### 📊 Fra data til dashboard på minutter, uden at miste fleksibilitet
 ###### :rocket: Bygget til fremtiden, forberedt til cloud og auto-skalering
-
-
 
 
 #
