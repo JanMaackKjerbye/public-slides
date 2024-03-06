@@ -1,39 +1,28 @@
 ---
 marp: true
-footer: ![w:175 invert](/img/OS2_logo_cmyk.svg)
+footer: ![w:200](../img/OS2_logo_cmyk.svg)
 theme: uncover
 
 class: 
  - invert
- - lead
  
 headingDivider: 1
 paginate: false
 ---
-<style font>
-section {
-    font-size: 28px;
-    
-}
-</style>
-
 #
-<!-- _footer: "SEKRETARIATET" -->
-![w:675 invert](/img/OS2_logo_cmyk.svg)
-
 ![bg sepia:0.8 brightness:0.7](../img/Arkitektur.gif)
-##### *Jan Maack Kjerbye*
+#### Jan Maack Kjerbye
 ###### 💼 Enterprise Arkitekt
 ###### ✉️ jan@os2.eu
 
 
 # **LOKALE MÅL**
 ![bg brightness:0.8 sepia:0.1 ](https://images.unsplash.com/photo-1586339949531-a77bdcc85fef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-###  🩹 Levetidsforlængelse?
+####  🩹 Levetidsforlængelse?
 
-### 🏅 Konkurrencedygtighed?
+#### 🏅 Konkurrencedygtighed?
 
-### 💸 Besparelser?
+#### 💸 Besparelser?
 
 #  **FÆLLES MÅL**
 ![bg brightness:0.9 blur:0.5px](https://images.pexels.com/photos/194094/pexels-photo-194094.jpeg)
@@ -44,17 +33,16 @@ section {
 # **NATIONALE MÅL**
 ![bg brightness:0.8 blur:1px](https://images.pexels.com/photos/3482442/pexels-photo-3482442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-### 🔀 Sammenhængende it
-### 🧩 Byg til genbrug og forandring
-### 🤝🏻 Flere leverandører
+#### 🔀 Sammenhængende it
+#### 🧩 Byg til genbrug og forandring
+#### 🤝🏻 Flere leverandører
 
 # **INTERNATIONALE MÅL**
 ![bg brightness:0.7 blur:1px](https://images.unsplash.com/photo-1628313348684-5d75dd67e7c8)
-## 🪢 Interoperability
-## 👑 Soverignity
-## ⬆️ Upstream first
-## 🔌 API first
-## 
+#### 🪢 Interoperability
+#### 👑 Soverignity
+#### ⬆️ Upstream first
+#### 🔌 API first
 
 
 # **ROADMAP**
