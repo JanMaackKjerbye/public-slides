@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: ![w:150 invert](/img/OS2_logo_cmyk.svg)
+footer: ![w:175 invert](/img/OS2_logo_cmyk.svg)
 theme: uncover
 
 class: 
@@ -16,42 +16,73 @@ section {
 }
 </style>
 
-# **LOKALE MÅL**
-###  🩹 Levetidsforlængelse?
+#
+<!-- _footer: "SEKRETARIATET" -->
+<!-- _header: ![w:675 invert](/img/OS2_logo_cmyk.svg) -->
 
-### 💸 Besparelser?
+![bg sepia:0.8 brightness:0.7](../img/Arkitektur.gif)
+##### *Jan Maack Kjerbye*
+###### 💼 Enterprise Arkitekt
+###### ✉️ jan@os2.eu
+
+
+# **LOKALE MÅL**
+![bg brightness:0.8 sepia:0.1 ](https://images.unsplash.com/photo-1586339949531-a77bdcc85fef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+###  🩹 Levetidsforlængelse?
 
 ### 🏅 Konkurrencedygtighed?
 
-#  🧑🏼‍🤝‍🧑🏽 **FÆLLES MÅL**
+### 💸 Besparelser?
 
-##  📈 Udbredelse
-## 🎯 Profesionalisering
-## 💡 Talentudvikling
+#  **FÆLLES MÅL**
+![bg brightness:0.9 blur:0.5px](https://images.pexels.com/photos/194094/pexels-photo-194094.jpeg)
+####  📈 Udbredelse
+#### 🎯 Profesionalisering
+#### 💡 Talentudvikling
 
-# 🎏 **NATIONALE MÅL**
-![FK_princopper](../img/FK_principper.png)
+# **NATIONALE MÅL**
+![bg brightness:0.8 blur:1px](https://images.pexels.com/photos/3482442/pexels-photo-3482442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-# INTERNATIONALE MÅL
+### 🔀 Sammenhængende it
+### 🧩 Byg til genbrug og forandring
+### 🤝🏻 Flere leverandører
 
-## Interoperabilitet
+# **INTERNATIONALE MÅL**
+![bg brightness:0.7 blur:1px](https://images.unsplash.com/photo-1628313348684-5d75dd67e7c8)
+## 🪢 Interoperability
+## 👑 Soverignity
+## ⬆️ Upstream first
+## 🔌 API first
+## 
 
 
-# Professionalisering
-- Udvikling prioriteres til kernefunktionalitet der leverer direkte forretningsværdi, resten løses af åbne standard løsninger fra Open Source hylden.
-
-- Standardløsninger leverer færdigudviklet sikkerhed, compliance, skalering ud fra industry best-practice
-
-- Vejen ryddes for interoperabilitet og genbrug via allerede indbyggede åbne integrations standarder
-
-- Vedligeholdelsesbyrden distribueres til bred vifte af profesionelle udviklere i communitiet
+# **ROADMAP**
+<!-- BackgroundColor: white -->
+![bg  brightness:0.9](https://images.unsplash.com/photo-1533930086187-0fc58e5a92e2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 #
 
-*"..one key reason why open source technology is a great choice. 
-It gives an organization the flexibility to change rapidly."* 
+```
+Udvikling prioriteres til kernefunktionalitet resten løses af åbne standard løsninger
+```
 
-![bg brightness:0.6](https://images.unsplash.com/photo-1557318041-1ce374d55ebf?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+```
+Standardløsninger leverer færdigudviklet sikkerhed, compliance, skalering ud fra industry best-practice
+```
+```
+Vejen ryddes for interoperabilitet og genbrug via allerede indbyggede åbne integrations standarder
+```
+
+```
+Vedligeholdelsesbyrden distribueres til bred vifte af profesionelle udviklere i communitiet
+```
+
+#
+
+> ..one key reason why open source technology is a great choice. 
+> It gives an organization the flexibility to change rapidly. 
+
+![bg brightness:0.5](https://images.unsplash.com/photo-1557318041-1ce374d55ebf?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 # **SIKKERHED**
  *“Given enough eyeballs, all bugs are shallow,”*
@@ -75,17 +106,15 @@ It gives an organization the flexibility to change rapidly."*
 <div class="mermaid">
 
 quadrantChart
-    title Activity and engagement on projects
-    x-axis Low User Engagement --> High User Engagement
-    y-axis Low Contributor Activity --> High Contributor Activity
-    quadrant-1 Integrate with these
-    quadrant-2 Research lack of engagement
-    quadrant-3 Consider lifecycle analysis
-    quadrant-4 Integrate upstream
+    title Activity and engagement
+    x-axis Low Engagement --> High Engagement
+    y-axis Inactive --> High Activity
+    quadrant-1 Contribute
+    quadrant-2 Remarket
+    quadrant-3 Lifecycle analysis
+    quadrant-4 Integrate
     Kong Project: [0.9, 0.9]
     Tyk Project: [0.85, 0.86]
-    OSindberetning: [0.51, 0.23]
+    OSindberetning: [0.51, 0.09]
 
 </div>
-
-## ········ ⏯️ .......................
