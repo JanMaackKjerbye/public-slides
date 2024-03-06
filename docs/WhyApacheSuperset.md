@@ -11,10 +11,15 @@ headingDivider: 2
 paginate: false
 -->
 #
-![bg left:58% blur:1px brightness:0.7](https://images.pexels.com/photos/4473099/pexels-photo-4473099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg left:33% blur:1px brightness:0.7](https://images.pexels.com/photos/4473099/pexels-photo-4473099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 #### **JAN MAACK KJERBYE**
+![w:100 sepia:0.3](../img/jmk.jpg)
 ###### Enterprise Arkitekt - OS²
-###### 📨 jan@os2.dk
+
+
+
+######  📨 jan@os2.dk
 
 #
 #### :infinity: Apache Superset
@@ -55,3 +60,16 @@ paginate: false
 ###### 📺 [Introduction to Data Modeling](https://www.youtube.com/watch?v=Bv_j6pHoPyI)
 ###### 📺 [Visualizing Geospatial Data with Apache Superset](https://www.youtube.com/watch?v=fwWJvbFTwGc)
 ###### 📖 [Data literacy som en sammensat kompetence](https://pure.au.dk/portal/da/publications/data-literacy-som-en-sammensat-kompetence(4056efd2-8e4a-45a8-b427-6cbfe14f5574).html)
+
+
+# **DATA INTEGRATION**
+
+NiFi - Solr - SQL?
+
+Why NiFi - Cloudera supported - Python Processors
+
+
+#
+<!-- header: "**DATAPLATFORM**" -->
+
+![w:900px](../img/Batch_data_platform.png)

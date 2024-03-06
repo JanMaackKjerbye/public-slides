@@ -21,7 +21,7 @@ paginate: true
 </style>
 
 ##### En moderne servicebaseret data ingestion platform
-![bg brightness:0.4](../img/lucian-alexe-yh0UtueiZ-I-unsplash.jpg)
+![bg blur:1px brightness:0.4](https://images.unsplash.com/photo-1558494949-ef010cbdcc31)
 - Vi udvikler og hoster egne connectors / data services
 - Forbinder til alle typer moderne standardiserede datahubs
 - Trækker i dag fra bl.a. OpenData, Danmarks Statistik og Energidataservice
@@ -33,7 +33,7 @@ paginate: true
 
 ## HVILKEN VÆRDI LEVERER DATAFORDELEREN?
 ![bg blur:2px brightness:0.5](../img/datahighway-unsplash.jpg)
-###### kompetencer og faglighed kommer i spil
+#### **Faglige kompetencer kommer i spil**
 
 - Styrker samarbejde
 - Frigører tid
@@ -41,9 +41,9 @@ paginate: true
 - Samler og beskytter data
 
 ## DATAVISUALISERING?
-###### moderne explorativ dataanalyse
+#### **Moderne explorativ dataanalyse**
 ![bg blur:2px brightness:0.4](../img/visualization-unsplash.jpg)
 
- - data gøres automatisk tilgængelige til analyse
- - diagrammer, tabeller og grafer designes via et grafisk lag
- - mulighed for dybdegående analyse med SQL
+ - Data gøres automatisk tilgængelige til analyse
+ - Diagrammer, tabeller og grafer designes via et grafisk lag
+ - Mulighed for dybdegående analyse med SQL
