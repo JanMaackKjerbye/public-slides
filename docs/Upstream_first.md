@@ -13,12 +13,13 @@ paginate: false
 <style font>
 section {
     font-size: 28px;
+    
 }
 </style>
 
 #
 <!-- _footer: "SEKRETARIATET" -->
-<!-- _header: ![w:675 invert](/img/OS2_logo_cmyk.svg) -->
+![w:675 invert](/img/OS2_logo_cmyk.svg)
 
 ![bg sepia:0.8 brightness:0.7](../img/Arkitektur.gif)
 ##### *Jan Maack Kjerbye*
