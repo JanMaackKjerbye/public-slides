@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: ![w:200](../img/OS2_logo_cmyk.svg)
+footer: ![w:200 invert](../img/OS2_logo_cmyk.svg)
 theme: uncover
 
 class: 
