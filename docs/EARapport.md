@@ -15,4 +15,6 @@ paginate: false
 ###### 💼 Enterprise Arkitekt
 ###### ✉️ jan@os2.eu
 
+
 # 📊 **BUSINESS INTELLIGENCE**
+![](../img/ETL-unsplash.jpg)
