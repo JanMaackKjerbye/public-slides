@@ -10,7 +10,7 @@ headingDivider: 1
 paginate: false
 ---
 #
-![bg sepia:0.2 brightness:0.7](../img/Arkitektur.gif)
+![bg sepia:0.2 brightness:0.7](./img/Arkitektur.gif)
 #### Jan Maack Kjerbye
 ###### 💼 Enterprise Arkitekt
 ###### ✉️ jan@os2.eu
@@ -45,33 +45,4 @@ Data Scientist
 #
 ![blur:6px bg brightness:0.8](https://images.unsplash.com/photo-1504164996022-09080787b6b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-<div class="mermaid">
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '12px', 'fontFamily': 'monospace'}}}%%
-
-graph TD
- A[(source..)] & B[(source..)] & C[["\nsource..\n_"]]-.->D
-    subgraph M[MANAGEMENT....] 
-    Metrics.
-    Access.
-    Schedules..
-    Events.
-    end
-    subgraph K[PIPELINE... ]
-        D("Ingest..")-.->
-         F[(Store..)]-.->       
-        E[Transform....]-.->F-.->An([Analyze...]) & ML.-.->F
-    end
-    subgraph ASH[VIEW..]
-    REP[["\n Report..\n."]]
-    Dashboard....
-    end
-An==>ASH
-M-.-K
-classDef default fill:#13294B;
-
-</div>
+https://github.com/janhalen/shared-docs/blob/main/ModernDataStack.md
