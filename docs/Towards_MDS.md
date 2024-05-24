@@ -10,7 +10,7 @@ headingDivider: 1
 paginate: false
 ---
 #
-![bg sepia:0.2 brightness:0.7](./img/Arkitektur.gif)
+![bg sepia:0.2 brightness:0.7](../docs/img/Arkitektur.gif)
 #### Jan Maack Kjerbye
 ###### 💼 Enterprise Arkitekt
 ###### ✉️ jan@os2.eu
