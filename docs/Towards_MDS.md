@@ -17,20 +17,29 @@ paginate: false
 
 #
 ### ☁️ **Forventninger**
-Afgrænsning af BI | Forventede gevinster
+Afgrænsning af BI 🔹 Forventede gevinster
 
-![bg bg blur:3px brightness:0.7](https://images.unsplash.com/photo-1523486230352-65ff5222cea4)
+![bg bg blur:3px brightness:0.4](https://images.unsplash.com/photo-1599344941194-5eb5eaaaf73d)
 
 #
 ### ✅ **Forudsætninger**
-Dataadgange | Organisering
+Dataadgange 🔹 Organisering
 
 ![bg blur:1px brightness:0.3](https://images.unsplash.com/photo-1518181835702-6eef8b4b2113)
 
 #
-![bg blur:6px bg brightness:0.6](https://images.unsplash.com/photo-1504164996022-09080787b6b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+#### ⚙️ Daglig drift
+Personbunden | Automatiseret
+ ![bg bg blur:1px brightness:0.4](https://images.unsplash.com/photo-1500160503851-c04cefe545a9?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![bg bg blur:2px brightness:0.6](https://images.unsplash.com/photo-1556075798-4825dfaaf498)
 
-#### 🎇 The Modern Data Stack
+#
+![bg blur:6px bg brightness:0.6](https://images.unsplash.com/photo-1504164996022-09080787b6b3)
+
+#### 🎇 The Open Data Stack
+
+
+[Concepts](https://github.com/janhalen/shared-docs/blob/main/ModernDataStackSimple.md)
 
 [Platform Architecture](https://github.com/janhalen/shared-docs/blob/main/ModernDataStack.md)
 
