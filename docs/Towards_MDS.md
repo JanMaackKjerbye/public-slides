@@ -34,6 +34,12 @@ Personbunden | Automatiseret
 ![bg bg blur:2px brightness:0.6](https://images.unsplash.com/photo-1556075798-4825dfaaf498)
 
 #
+### 🤝 **OS2 Samarbejde**
+Del jeres omkostninger | Undgå leverandørmonopol
+
+![bg blur:2px bg brightness:0.5](https://images.unsplash.com/photo-1573164574572-cb89e39749b4)
+
+#
 ![bg blur:6px bg brightness:0.6](https://images.unsplash.com/photo-1504164996022-09080787b6b3)
 
 #### 🎇 The Open Data Stack
@@ -48,13 +54,3 @@ Personbunden | Automatiseret
 Moderne explorativ dataanalyse
 
 ![bg bg blur:1px brightness:0.3](https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-#
-
-![bg bg blur:1px brightness:0.3](https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-| Grist | Mito | Superset |
-|:-----:|:----:|:--------:|
-| 
-![width:200px](https://community.getgrist.com/uploads/db2011/original/1X/f96a0e7ddbe6690c5fcb913ee25a7c99beab9250.png) | ![](https://img.stackshare.io/service/47732/default_1384dd4876a63d49af0f3d3faf9adcbd2d448b1c.png) | ![width:200px](https://www.saagie.com/wp-content/uploads/elementor/thumbs/Superset-q3vwi3jhzogc2dhdrll9o0u7d8hl95mpbwo9w8zsow.png)|
-| *Powerful data tool* | *Innovative spreadsheet* | *Modern data exploration* |
