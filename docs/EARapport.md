@@ -40,7 +40,7 @@ Standarder | Målbilleder | Strukturer | Processer
 
 - Der arbejdes meget forskelligt med dokumentation og transparens
 
-- Genbrug: Der er ikke meget genbrug, produkterne er samlede omkring enkelte leverandørers ydelser der for det meste leverer store monolitter
+- Genbrug: Der er ikke meget effektivt genbrug, produkterne er samlede omkring enkelte leverandørers ydelser der for det meste leverer store monolitter
 -->
 
 #
