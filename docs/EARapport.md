@@ -27,7 +27,6 @@ Fælleskabet har fået en Enterprise Arkitekt. Både produkterne bestyrelsen og 
 # Findings
 ![bg blur:1px brightness:0.5 fi](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-
 #
 ### Stor variation i :arrow_down:
 
