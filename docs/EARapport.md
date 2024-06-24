@@ -24,7 +24,28 @@ Fælleskabet har fået en Enterprise Arkitekt. Både produkterne bestyrelsen og 
 - Jeg har været inviteret ind i en delmængde af produkterne - ad-hoc
 
 - Jeg har opdaget nogle ting-->
+# Findings
+![bg blur:1px brightness:0.5 fi](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+
+#
+
+### Stor variation i :arrow_down:
+
+Standarder | Målbilleder | Strukturer | Processer
+<!-- 
+- Produkterne er meget uens og leverandørerne ligeså
+
+
+
+- Der anvendes ikke mange fælles standarder eller processer for udvikling eller leverance
+
+- Der er forskellige målbilleder for et sundt produkt er og hvordan man kommer derhen uden egentlige metrikker
+
+- Der arbejdes meget forskelligt med dokumentation og transparens
+
+- Genbrug: Der er ikke meget genbrug, produkterne er samlede omkring enkelte leverandørers ydelser der for det meste leverer store monolitter
+-->
 
 #
 ![bg opacity:0.7](https://images.unsplash.com/photo-1535214650615-40b65942085a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
