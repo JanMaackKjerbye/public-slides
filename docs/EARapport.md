@@ -29,14 +29,11 @@ Fælleskabet har fået en Enterprise Arkitekt. Både produkterne bestyrelsen og 
 
 
 #
-
 ### Stor variation i :arrow_down:
 
 Standarder | Målbilleder | Strukturer | Processer
 <!-- 
 - Produkterne er meget uens og leverandørerne ligeså
-
-
 
 - Der anvendes ikke mange fælles standarder eller processer for udvikling eller leverance
 
